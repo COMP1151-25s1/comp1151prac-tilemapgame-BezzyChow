@@ -1,29 +1,42 @@
 {
-    "activeFile": "Game tilesheet.tmx",
+    "activeFile": "1-Bit Platformer Tilesheet.tsx",
     "expandedProjectPaths": [
         "."
     ],
+    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "1-Bit Platformer Tilesheet.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "C:/Users/49170147/Work/comp1151-game-prototype-BezzyChow/COMP1151 Game Prototype/Assets/Tilemapgame/1-Bit Platformer Tilesheet.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/49170147/Work/comp1151-game-prototype-BezzyChow/COMP1151 Game Prototype/Assets/Tilemapgame/Game tilesheet.tmx": {
+            "scale": 2.078125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -128,
+                "y": 256
+            }
+        },
         "Game tilesheet.tmx": {
             "scale": 2.1919270833333333,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": -151.4648924795058,
-                "y": 255.93917072591188
+                "x": -131.8474515860758,
+                "y": 265.5197813947962
             }
         }
     },
     "openFiles": [
-        "1-Bit Platformer Tilesheet.tsx",
-        "Game tilesheet.tmx"
+        "Game tilesheet.tmx",
+        "1-Bit Platformer Tilesheet.tsx"
     ],
     "project": "gameTilemap.tiled-project",
     "recentFiles": [
+        "Game tilesheet.tmx",
         "1-Bit Platformer Tilesheet.tsx",
-        "Game tilesheet.tmx"
+        "C:/Users/49170147/Work/comp1151-game-prototype-BezzyChow/COMP1151 Game Prototype/Assets/Tilemapgame/Game tilesheet.tmx"
     ]
 }
